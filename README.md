@@ -11,7 +11,6 @@ This module creates a RESTful API for managing a collection of books.
 - [Endpoints](#endpoints)
 - [Models](#models)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
