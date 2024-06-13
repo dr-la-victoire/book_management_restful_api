@@ -6,7 +6,9 @@ from random import randint
 app = FastAPI()
 
 # the list of dictionaries for storage
-book_dict = []
+# Populating the list for testing purposes
+book_dict = [{"id": 1, "title": "The Girl With The Dragon Tattoo",
+              "author": "Stieg Larsson", "published_year": 2005}]
 
 # API Endpoints
 

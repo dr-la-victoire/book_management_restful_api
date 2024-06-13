@@ -60,6 +60,7 @@ uvicorn app:app --reload
 ```
 
 You can then access the API at `http://localhost:8000`.
+Postman or Thunder Client can be used to test the endpoints. You can get a VS Code extension for these products.
 
 ## Endpoints
 
